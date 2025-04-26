@@ -1,0 +1,9 @@
+{
+    "clients": {
+        "558293230395": {
+            "phone": "558293230395",
+            "name": "Cliente",
+            "allowed": true
+        }
+    }
+}
